@@ -15,7 +15,7 @@ This is my personal portfolio website built using HTML and CSS.
 - CSS
 
 ## Live Website
-https://satyam8p.github.io/my-first-project/
+https://satyamp8p.github.io/my-first-project/
 
 ## Author
 Satyam Patel
